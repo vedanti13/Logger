@@ -1,1 +1,0 @@
-Logger is simple
